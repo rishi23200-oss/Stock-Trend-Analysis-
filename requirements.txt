@@ -1,8 +1,7 @@
+streamlit
+pandas
 numpy
-pandas 
-plotly 
-streamlit 
+plotly
 pmdarima
-
-
-
+statsmodels
+scikit-learn
