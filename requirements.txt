@@ -1,6 +1,8 @@
 numpy
-pandas
-plotly
-streamlit
+pandas 
+plotly 
+streamlit 
 pmdarima
+
+
 
